@@ -1,0 +1,22 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "Quiz App for Udemy Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anujmulik/udemy-coding-project.git"
+  },
+  "author": "Anuj Mulik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anujmulik/udemy-coding-project/issues"
+  },
+  "homepage": "https://github.com/anujmulik/udemy-coding-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
